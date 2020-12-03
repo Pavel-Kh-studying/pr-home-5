@@ -13,10 +13,10 @@ body {
 .section-card {
   min-width: 350px;
   display: inline-block;
-  background-color: wheat;
   padding: 40px 30px;
   border-radius: 5px;
   position: relative;
+  overflow: hidden;
 }
 
 .section-card:nth-child(1) {
